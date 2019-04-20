@@ -1,18 +1,12 @@
-.logo {
+.navbar-brand {
     font-weight: bold;
-    background-color: navy;
-    color: white;
-    font-size: 60px;
+    background-color: rgb(13, 167, 159);
+    font-size: 250%;
     font-style:italic;
 }
-
-.first image {
-    width: 20%; 
-    float: left; 
-    margin : 5px;
-
-}
-
+.container{
+    background-color: white;
+  }
 .text {
     float: right;
 }
